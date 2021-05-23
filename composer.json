@@ -1,0 +1,18 @@
+{
+    "name": "gavan4eg/house-bank",
+    "type": "library",
+    "license": "MIT",
+    "description": "Мой склад",
+    "authors": [
+        {
+            "name": "ALexey Chuclib",
+            "email": "siteruslana@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gavan4eg\\HouseBank\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
