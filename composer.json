@@ -13,5 +13,10 @@
         "psr-4": {
             "Gavan4eg\\HouseBank\\": "src/"
         }
+    },
+    "config": {
+        "platform": {
+            "php": "7.3.0"
+        }
     }
 }
