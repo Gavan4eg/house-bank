@@ -3,7 +3,7 @@
 
 # Установка
 Добавить в config/app.php
-- providers: \Gavan4eg\MyWarehouse\MyWarehouseServiceProvider::class,
+- providers: \Gavan4eg\HouseBank\MyWarehouseServiceProvider::class,
 - Добавить в исключения URL 'my-warehouse/*' (App/Http/Middleware/VerifyCsrfToken.php)
 - Добавить в .env MY_WAREHOUSE_API_TOKEN=token
 - Исполнить php artisan vendor:publish
