@@ -13,6 +13,5 @@
         "psr-4": {
             "Gavan4eg\\HouseBank\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
